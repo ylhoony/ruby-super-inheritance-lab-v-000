@@ -5,7 +5,7 @@ class Student
   end
   
   def hello
-    
+    puts
   end
 end
 
